@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ivv:home|Door43 (ivv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ivv|d43-ivv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ivv/archive/master.zip|d43-ivv.zip]]
+
+**Recent Changes**
+{{changes>ns = ivv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ivv|Ethnologue data]]
+
